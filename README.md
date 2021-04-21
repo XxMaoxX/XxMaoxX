@@ -3,7 +3,7 @@
 I am Mouad
 
 <details>
-  <img align="left" alt="XxMaoxX's Github stats" src="https://github-readme-stats-blush-one.vercel.app/api?username=XxMaox&show_icons=true&hide_border=true"/>
+  <img align="left" alt="XxMaoxX's Github stats" src="https://github-readme-stats-blush-one.vercel.app/api?username=XxMaoxX&show_icons=true&hide_border=true"/>
 </details>
 
 <!--
